@@ -52,8 +52,8 @@
 
 <script>
 export default {
-	name: 'Sidebar',
-	data () {
+  name: 'Sidebar',
+  data () {
     return {
       drawer: true,
       items: [
@@ -64,7 +64,7 @@ export default {
       right: null
     }
   },
-  mounted() {
+  mounted () {
   	console.log(this.$route.path)
   }
 }
@@ -97,6 +97,5 @@ export default {
 
 			&.selected
 				background: darken(#0074e8, 15)
-
 
 </style>

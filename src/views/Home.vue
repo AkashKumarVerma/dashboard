@@ -36,7 +36,7 @@
 <script>
 export default {
   name: 'Home',
-  data() {
+  data () {
   	return {
   		projects: [
   			{
@@ -140,13 +140,12 @@ export default {
   					require('@/assets/user-4.png'),
   					require('@/assets/user-2.png')
   				]
-  			},
+  			}
   		]
   	}
   }
 }
 </script>
-
 
 <style lang="sass" scoped>
 .home--wrapper
