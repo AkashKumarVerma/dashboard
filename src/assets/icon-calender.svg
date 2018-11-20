@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.968 22.715">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-6 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-2 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="icon-calender" transform="translate(-297.606 -1090.498)">
+    <g id="Rectangle_2" data-name="Rectangle 2" class="cls-1" transform="translate(297.606 1092.29)">
+      <rect class="cls-5" width="21.968" height="20.923" rx="3"/>
+      <rect class="cls-6" x="0.5" y="0.5" width="20.968" height="19.923" rx="2.5"/>
+    </g>
+    <line id="Line_6" data-name="Line 6" class="cls-2" y2="3.024" transform="translate(302.562 1091.248)"/>
+    <g id="Group_6" data-name="Group 6">
+      <line id="Line_7" data-name="Line 7" class="cls-3" y2="3.024" transform="translate(308.224 1091.248)"/>
+      <line id="Line_8" data-name="Line 8" class="cls-3" y2="3.024" transform="translate(309.688 1091.248)"/>
+    </g>
+    <line id="Line_9" data-name="Line 9" class="cls-2" y2="3.024" transform="translate(315.35 1091.248)"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" class="cls-4" cx="1" cy="1" r="1" transform="matrix(1, -0.017, 0.017, 1, 301.983, 1098.018)"/>
+    <circle id="Ellipse_7-2" data-name="Ellipse 7" class="cls-4" cx="1" cy="1" r="1" transform="matrix(1, -0.017, 0.017, 1, 305.982, 1097.93)"/>
+    <circle id="Ellipse_7-3" data-name="Ellipse 7" class="cls-4" cx="1" cy="1" r="1" transform="matrix(1, -0.017, 0.017, 1, 309.981, 1097.843)"/>
+    <circle id="Ellipse_7-4" data-name="Ellipse 7" class="cls-4" cx="1" cy="1" r="1" transform="matrix(1, -0.017, 0.017, 1, 313.98, 1097.756)"/>
+    <circle id="Ellipse_7-5" data-name="Ellipse 7" class="cls-4" cx="1" cy="1" r="1" transform="matrix(1, -0.017, 0.017, 1, 302.053, 1102.017)"/>
+    <circle id="Ellipse_7-6" data-name="Ellipse 7" class="cls-4" cx="1" cy="1" r="1" transform="matrix(1, -0.017, 0.017, 1, 306.052, 1101.93)"/>
+    <circle id="Ellipse_7-7" data-name="Ellipse 7" class="cls-4" cx="1" cy="1" r="1" transform="matrix(1, -0.017, 0.017, 1, 310.051, 1101.842)"/>
+    <circle id="Ellipse_7-8" data-name="Ellipse 7" class="cls-4" cx="1" cy="1" r="1" transform="matrix(1, -0.017, 0.017, 1, 314.05, 1101.755)"/>
+    <circle id="Ellipse_7-9" data-name="Ellipse 7" class="cls-4" cx="1" cy="1" r="1" transform="matrix(1, -0.017, 0.017, 1, 302.122, 1106.016)"/>
+    <circle id="Ellipse_7-10" data-name="Ellipse 7" class="cls-4" cx="1" cy="1" r="1" transform="matrix(1, -0.017, 0.017, 1, 306.122, 1105.929)"/>
+    <circle id="Ellipse_7-11" data-name="Ellipse 7" class="cls-4" cx="1" cy="1" r="1" transform="matrix(1, -0.017, 0.017, 1, 310.121, 1105.842)"/>
+  </g>
+</svg>

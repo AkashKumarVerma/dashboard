@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.059 12.558">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(255,255,255,0);
+        stroke: #fff;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="Icon-Home" transform="translate(-295.968 -1007.533)">
+    <path id="Path_4" data-name="Path 4" class="cls-1" d="M2023.92,1365.153v-2.422l1.607,1.607-6.218-6.305-4.179,4.7-1.663,1.871,1.663-1.871s-.673,5.513.057,6.3,2.7.465,2.7.465v-4.346h3.407v4.346s1.955.19,2.345-.3.279-2.248.279-2.248" transform="translate(-1717 -350)"/>
+  </g>
+</svg>

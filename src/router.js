@@ -14,6 +14,11 @@ export default new Router({
       component: Home
     },
     {
+      path: '/messages',
+      name: 'messages',
+      component: () => import('./views/Messages.vue')
+    },
+    {
       path: '/about',
       name: 'about',
       // route level code-splitting
